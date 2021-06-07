@@ -3,7 +3,7 @@ Image Cepstrum using OF for Blind Deblurring.
 
 ![cepst example]( https://github.com/bemoregt/ofImageCepstrum/blob/master/shot1.png "example")
 
-![cepst example2]( https://github.com/bemoregt/ofImageCepstrum/blob/master/sho21.png "example2")
+![cepst example2]( https://github.com/bemoregt/ofImageCepstrum/blob/master/shot2.png "example2")
 - Motion Blurred Image, 2D Spectrum, Image Cepstrum.
 
 ### Algorithm
